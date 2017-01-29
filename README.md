@@ -1,4 +1,6 @@
 # mosaic_tool
+# Adapted from Daniel Schiffman's Obama Mosaic (https://github.com/CodingTrain/Rainbow-Code/tree/master/challenges/CC_49_ObamaMosaic) 
+# Uses Hamoids video exporting library in Processing (https://github.com/hamoid/video_export_processing)
 
 This tool makes a mosaic from a source image. 
 When the mouse is moved from left to right, the image tiles will scatter in 3D according to the image average brightness.
